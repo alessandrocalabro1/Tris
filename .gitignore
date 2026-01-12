@@ -1,0 +1,20 @@
+node_modules/
+dist/
+www/
+.DS_Store
+Thumbs.db
+
+# Android
+android/.gradle
+android/local.properties
+android/*/build
+android/.idea
+android/captures
+android/app/release
+
+# iOS
+ios/App/App.xcworkspace/xcuserdata
+ios/*.xcworkspace/xcuserdata/*.xcuserdatad
+ios/*.xcodeproj/project.xcworkspace/xcuserdata
+ios/*.xcodeproj/xcuserdata
+DerivedData

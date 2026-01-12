@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Tris Ultimate</string>
+    <string name="title_activity_main">Tris Ultimate</string>
+    <string name="package_name">com.trisultimate.game</string>
+    <string name="custom_url_scheme">com.trisultimate.game</string>
+</resources>
